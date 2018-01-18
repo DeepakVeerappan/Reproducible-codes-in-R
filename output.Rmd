@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 formatting the data 
 > to make subsection 
+```{r}
+hist(rnorm(100), col="green")
+```
 
 find my website here [here](https://github.com)
 #same to add images
